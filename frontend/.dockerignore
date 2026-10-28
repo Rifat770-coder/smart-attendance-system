@@ -1,0 +1,16 @@
+# Node
+node_modules/
+.next/
+out/
+npm-debug.log*
+yarn-error.log*
+
+# Runtime artifacts
+*.pid
+*.log
+.env
+.env.*
+
+# Tooling
+.tsbuildinfo
+next-env.d.ts
